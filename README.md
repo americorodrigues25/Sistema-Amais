@@ -37,7 +37,7 @@ Ao fazer logout do sistema, é obrigatório realizar o login novamente com e-mai
 ---
 
 ## 👇 Veja o vídeo de demonstração
-https://github.com/americorodrigues25/Sistema-Amais/assets/152452192/2e9a095f-eca6-41ec-9677-32a549cca85b
+[🔗 Video](https://github.com/americorodrigues25/Sistema-Amais/assets/152452192/2e9a095f-eca6-41ec-9677-32a549cca85b)
 
 ---
 
